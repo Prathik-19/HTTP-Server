@@ -1,5 +1,5 @@
 # HTTP Server
-## Authors: Shreedhar, Mani, Anish, Prathik
+## Authors: Prathik
 
 ### Overview
 This project involves the creation of an HTTP server capable of handling client requests using the HTTP protocol. The server is designed to run indefinitely, maintaining resilience against malformed or malicious client inputs to ensure stability and reliability. It demonstrates the use of client-server modularity and offers a platform for understanding the fundamentals of network programming and system design.
